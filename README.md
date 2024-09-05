@@ -8,10 +8,7 @@ Seeking a junior frontend position. Motivated and purposeful.
 
 🧠 I'm learning React JS
 
-📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/5673)
-
-🎓 This is my [Hexlet profile](https://ru.hexlet.io/u/zebpaa)
-
+📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/5673) and [Hexlet profile](https://ru.hexlet.io/u/zebpaa)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
