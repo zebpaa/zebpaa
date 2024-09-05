@@ -1,6 +1,6 @@
 # Hi👋 My name is Aleksei Skvortsov
 ## Junior Frontend Developer
-Hi there. Seeking a junior frontend position. Motivated and purposeful.
+Seeking a junior frontend position. Motivated and purposeful.
 
 🌍 I'm based in Samara, Russia
 
