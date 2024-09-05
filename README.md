@@ -13,8 +13,6 @@ Hi there. Seeking a junior frontend position. Motivated and purposeful.
 📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/5673)
 
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
