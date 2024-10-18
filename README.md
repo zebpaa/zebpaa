@@ -10,7 +10,7 @@ Seeking a junior frontend position. Motivated and purposeful.
 
 ### Education
 - Frontend Developer, Hexlet, 2024
-- Test Automation Engineer, Optimax Dev, 2023, [certificate]()
+- Test Automation Engineer, Optimax Dev, 2023, [certificate](https://github.com/zebpaa/zebpaa/blob/main/documents/Сертификат%20OptimaxDev.jpg)
 - Computer Technologies and Mathematical Modeling, Togliatti State University, 2018-2022 
 
 📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/5673) and [Hexlet profile](https://ru.hexlet.io/u/zebpaa)
