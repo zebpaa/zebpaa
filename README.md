@@ -6,7 +6,7 @@ Seeking a junior frontend position. Motivated and purposeful.
 
 ✉️ You can contact me at <a.o.skvorcov@yandex.ru> or telegram: [@zebpaa](https://t.me/zebpaa)
 
-🧠 I'm learning React JS
+🧠 I'm learning TypeScript
 
 ### Education
 - Frontend Developer, Hexlet, 2024
