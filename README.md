@@ -8,6 +8,11 @@ Seeking a junior frontend position. Motivated and purposeful.
 
 🧠 I'm learning React JS
 
+### Education
+- Frontend Developer, Development of frontend components for web applications, Hexlet, 2024, 
+- Test Automation Engineer, Optimax Dev,  2023
+- Computer Technologies and Mathematical Modeling, Togliatti State University, 2018-2022 
+
 📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/5673) and [Hexlet profile](https://ru.hexlet.io/u/zebpaa)
 
 ### :hammer_and_wrench: Languages and Tools :
