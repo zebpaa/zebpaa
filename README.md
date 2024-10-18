@@ -9,7 +9,7 @@ Seeking a junior frontend position. Motivated and purposeful.
 🧠 I'm learning React JS
 
 ### Education
-- Frontend Developer, Hexlet, 2024, 
+- Frontend Developer, Hexlet, 2024
 - Test Automation Engineer, Optimax Dev,  2023
 - Computer Technologies and Mathematical Modeling, Togliatti State University, 2018-2022 
 
