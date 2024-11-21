@@ -9,7 +9,7 @@ Seeking a junior frontend position. Motivated and purposeful.
 🧠 I'm learning TypeScript
 
 ### Education
-- Frontend Developer, Hexlet, 2024
+- Frontend Developer, Hexlet, 2024 [certificate](https://github.com/zebpaa/zebpaa/blob/main/documents/aleksei_skvortsov_js_en.png)
 - Test Automation Engineer, Optimax Dev, 2023, [certificate](https://github.com/zebpaa/zebpaa/blob/main/documents/Сертификат%20OptimaxDev.jpg)
 - Computer Technologies and Mathematical Modeling, Togliatti State University, 2018-2022 
 
