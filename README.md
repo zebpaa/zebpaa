@@ -1,19 +1,15 @@
 # Hi👋 My name is Aleksei Skvortsov
-## Junior Frontend Developer
-Seeking a junior frontend position. Motivated and purposeful.
+## Frontend Developer
+Seeking a frontend position. Motivated and purposeful.
 
 🌍 I'm based in Samara, Russia
 
 ✉️ You can contact me at <a.o.skvorcov@yandex.ru> or telegram: [@zebpaa](https://t.me/zebpaa)
 
-🧠 I'm learning TypeScript
-
 ### Education
-- Frontend Developer, Hexlet, 2024 [certificate](https://github.com/zebpaa/zebpaa/blob/main/documents/aleksei_skvortsov_js_en.png)
-- Test Automation Engineer, Optimax Dev, 2023, [certificate](https://github.com/zebpaa/zebpaa/blob/main/documents/Сертификат%20OptimaxDev.jpg)
-- Computer Technologies and Mathematical Modeling, Togliatti State University, 2018-2022 
-
-📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/5673) and [Hexlet profile](https://ru.hexlet.io/u/zebpaa)
+- Frontend Developer, Hexlet [certificate](https://github.com/zebpaa/zebpaa/blob/main/documents/aleksei_skvortsov_js_en.png)
+- Test Automation Engineer, Optimax Dev [certificate](https://github.com/zebpaa/zebpaa/blob/main/documents/Сертификат%20OptimaxDev.jpg)
+- Computer Technologies and Mathematical Modeling, Togliatti State University 
 
 ### :hammer_and_wrench: Languages and Tools :
 
