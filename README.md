@@ -28,9 +28,3 @@ Rss Reader is a service for convenient reading and management of RSS feeds from 
 
 ## [TodosList](https://github.com/zebpaa/TodosList)
 Web-application that lets you manage your current to-do list
-
-## [Difference calculator](https://github.com/zebpaa/Difference-calculator)
-Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
-
-## [Brain Games](https://github.com/zebpaa/Brain-games)
-Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers, checking a number for primality.
