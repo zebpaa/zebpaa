@@ -26,6 +26,9 @@ Chat (Slack) is a simplified version of a real-time messaging application design
 ## [Rss-Reader](https://github.com/zebpaa/RSS-reader)
 Rss Reader is a service for convenient reading and management of RSS feeds from various sources, automatically updating and aggregating new content into a single stream.
 
+## [TodosList](https://github.com/zebpaa/TodosList)
+Web-application that lets you manage your current to-do list
+
 ## [Difference calculator](https://github.com/zebpaa/Difference-calculator)
 Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
 
